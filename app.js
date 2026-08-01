@@ -13,9 +13,9 @@ if ( age > 18 || age == 20) {
 // /QUESTION NO 2//
 
 
-let username = "Fazeel  Raw Quereshi Chutttar ";
+let username = "Fazeel  Raw Quereshi  gory Quereshi";
 
-let password = "Fazeel Raw Quereshi";
+let password = "Fazeel Raw Ddda Ka Sawala Quereshi";
 
 if (username) {
     console.log( "Username:",username);
